@@ -18,7 +18,7 @@ ____
 
 - 🔺 ʜᴏᴡ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ 🔻.
 
-<p><a href="https://github.com/OsharaShaveen/Heroku-Xray"> <img src="https://telegra.ph/file/c0543481011362d508b70.jpg" /></a></p>
+<p><a href="https://github.com/ziyourenchina/jasonc"> <img src="https://telegra.ph/file/c0543481011362d508b70.jpg" /></a></p>
 Click on fork and star buttons like this image☝️.
 
 ___
@@ -29,7 +29,7 @@ ___
    - [ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ] ʙᴜᴛᴛᴏɴ👇
 
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/OsharaShaveen/Heroku-Xray"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/ziyourenchina/jasonc"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ⭕ ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ʀᴇɢɪᴏɴ ᴛʜᴀᴛ ᴡᴏʀᴋꜱ ʙᴇꜱᴛ ꜰᴏʀ ʏᴏᴜ.
    - 🔺ʀᴇᴍᴇᴍʙᴇʀ,
@@ -73,7 +73,7 @@ ____
 
 -🏷️ කොහොමද මේ රෙපෝව fork කරගන්නෙ?🏷️-
 
-<p><a href="https://github.com/OsharaShaveen/Heroku-Xray"> <img src="https://telegra.ph/file/c0543481011362d508b70.jpg" /></a></p>
+<p><a href="https://github.com/ziyourenchina/jasonc"> <img src="https://telegra.ph/file/c0543481011362d508b70.jpg" /></a></p>
 
 • මුලින්ම ඔබ අපගෙ රෙපෝවෙ ඇති star බටන් එක මත එක පාරක් ඔබන්න.
 
@@ -89,7 +89,7 @@ Fork කරගෙන ඉවර උනාම,
 
 - [DEPLOY TO HEROKU] බටන් එක මත එක පාරක් ඔබන්න 🏷️👇
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/OsharaShaveen/Heroku-Xray"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/ziyourenchina/jasonc"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ___
 
